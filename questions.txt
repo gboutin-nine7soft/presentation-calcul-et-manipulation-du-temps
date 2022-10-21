@@ -1,0 +1,9 @@
+Une année comporte toujours 365 jours
+
+Les années bissextiles sont toujours aux 4 ans
+
+Il y a toujours 24 heures dans une journée
+
+Il y a 60 secondes dans une minute
+
+Une semaine ne peut jamais avoir 2 jeudis consécutifs
